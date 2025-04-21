@@ -1,16 +1,13 @@
-## Hi there 👋
+I'm **Ibrahem Elhdad**, a Computer Science student with a passion for solving problems and competing in algorithmic challenges.
 
-<!--
-**I-Elhadad/I-Elhadad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Achievements:
+- **ACPC 2024 Finalist**
+- Placed **2nd** in the **ECPC 2024 Qualification Round**
+- Currently a **Specialist** on [Codeforces](https://codeforces.com/profile/hadad)
 
-Here are some ideas to get you started:
+### Contributions:
+- Mentor at the **ICPC Menofia Community**
+- **Problem Setter** for regional contests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/ibrahem-elhdad-21216226b/)
