@@ -3,7 +3,7 @@ I'm **Ibrahem Elhdad**, a Computer Science student with a passion for solving pr
 ### Achievements:
 - **ACPC 2024 Finalist**
 - Placed **2nd** in the **ECPC 2024 Qualification Round**
-- Currently a **Specialist** on [Codeforces](https://codeforces.com/profile/hadad)
+- Currently a **Expert** on [Codeforces](https://codeforces.com/profile/hadad)
 
 ### Contributions:
 - Mentor at the **ICPC Menofia Community**
